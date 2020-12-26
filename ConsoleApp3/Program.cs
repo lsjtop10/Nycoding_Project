@@ -9,6 +9,7 @@ namespace ConsoleApp3
             //Console.WriteLine("hello + 자기 이름 써서 푸시")
             Console.WriteLine("Hello !");
             Console.WriteLine("hi 이기주");
+            Console.WriteLine("hellow 김강빈");
         }
     }
 }
